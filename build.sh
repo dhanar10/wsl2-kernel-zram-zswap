@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Build a custom WSL2 kernel with zwap
+# Build a custom WSL2 kernel with zram and zwap
 
 set -e
 set -o pipefail
